@@ -1,0 +1,75 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Game">
+			<method name="Auto"/>
+			<method name="ClickButton"/>
+			<method name="clikcc_fons"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Fon_standart"/>
+			<method name="N_Auto"/>
+			<method name="N_click"/>
+			<method name="N_level"/>
+			<method name="N_time"/>
+			<method name="Nas_zvali"/>
+			<method name="registr"/>
+			<method name="registr"/>
+			<method name="shop_fon3"/>
+			<method name="shop_skin2"/>
+			<method name="shop_skin3"/>
+			<method name="shop_skin4"/>
+			<method name="shop_skin5"/>
+			<method name="shop_skin6"/>
+			<method name="shop_skin7"/>
+			<method name="ToAciv"/>
+			<method name="ToMain"/>
+			<method name="ToShop"/>
+			<method name="Tostatistica"/>
+			<method name="Upbutton"/>
+			<method name="vibor_fon_achiv"/>
+			<method name="vibor_skin"/>
+			<method name="vibor_skin2"/>
+			<method name="vibor_skin3"/>
+			<method name="vibor_skin4"/>
+			<method name="vibor_skin5"/>
+			<method name="vibor_skin6"/>
+			<method name="vibor_skin7"/>
+			<method name="vibor_skin8"/>
+			<method name="Vixod"/>
+		</type>
+		<type fullname="Statistik">
+			<method name="addNum"/>
+		</type>
+		<type fullname="Vxod">
+			<method name="ToRegistrac"/>
+			<method name="ToVxod"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>
